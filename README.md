@@ -45,13 +45,13 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 - [] Optimize Program
 
 
-## Design with Figma
+<h3>
+<a href="https://www.figma.com/design/9djnl0DYhTyfepJVH54ZN6/sync-next-app?node-id=1-2&t=iYPBoDFk0trWXpOF-1" alt="Link to Website Design">Design with Figma</a>
+</h3>
 
-<a href="https://www.figma.com/design/9djnl0DYhTyfepJVH54ZN6/sync-next-app?node-id=1-2&t=iYPBoDFk0trWXpOF-1" alt="Link to Website Design" />
-
-## Presentation Slide
-
-<a href="https://www.canva.com/design/DAGxMv3blnw/yJZD5fi5mLeC3_SF9-zqvg/edit?utm_content=DAGxMv3blnw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Link to Presentation Slide" />
+<h3>
+<a href="https://www.canva.com/design/DAGxMv3blnw/yJZD5fi5mLeC3_SF9-zqvg/edit?utm_content=DAGxMv3blnw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Link to Presentation Slide"> Presentation Slide</a>
+</h3>
 
 ---
 
